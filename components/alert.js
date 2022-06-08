@@ -24,9 +24,7 @@ export default function Alert({ preview }) {
               to exit preview mode.
             </>
           ) : (
-            <>
-                Here is some alert text!
-            </>
+                null
           )}
         </div>
       </Container>
