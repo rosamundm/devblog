@@ -8,6 +8,8 @@ module.exports = {
         'accent-7': '#333',
         success: '#0070f3',
         cyan: '#79FFE1',
+        'signature-teal': '#78C2AD',
+        'signature-pink': '#EF7479',
       },
       spacing: {
         28: '7rem',

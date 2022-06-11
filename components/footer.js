@@ -1,8 +1,17 @@
 import Link from 'next/link'
 import Container from './container'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { EXAMPLE_PATH } from '../lib/constants'
 
 export default function Footer() {
+
+  const footerLinks = [
+    {"name": "about", "slug": "/about/"},
+    {"name": "reading", "slug": "/reading/"},
+    {"name": "resources", "slug": "/resources/"},
+    {"name": "contact", "slug": "/contact/"},
+  ]
+  
   return (
     <footer className="bg-accent-1 border-t border-accent-2">
       <Container>
@@ -11,20 +20,21 @@ export default function Footer() {
             <Link href={`/about/`}>about</Link> / {''}
             <Link href={`/reading/`}>reading</Link> / {''}
             <Link href={`/resources/`}>resources</Link> / {''}
-            <Link href={`/impressum/`}>impressum</Link>
+            <Link href={`/contact/`}>contact</Link>
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <div
-              className="mx-3 font-bold"
-            >
-              put some icons here?
-            </div>
             <a
               href="https://help-ua-volunteers.com/"
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
               Donate to Ukrainian volunteers 🇺🇦
             </a>
+            <div
+              className="mx-3"
+            >
+              © Rosamund Mather {(new Date().getFullYear())} {''}
+              <Link href={`/impressum/`}>Impressum</Link>
+            </div>
           </div>
         </div>
       </Container>
