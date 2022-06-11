@@ -10,4 +10,7 @@
     div {
         @apply selection:bg-signature-pink selection:text-white;
     };
+    code {
+        @apply text-signature-pink;
+    };
 }
