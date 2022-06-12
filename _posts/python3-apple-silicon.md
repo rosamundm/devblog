@@ -1,6 +1,6 @@
 ---
 title: 'Setting up Python3 on Apple Silicon'
-excerpt: 'New technology is supposed to make our lives easier... but sometimes, you wish it wouldn''t bother. Don''t let Apple Silicon get in your way!'
+excerpt: 'New technology is supposed to make our lives easier... but sometimes, you wish it wouldn''t bother. Don''t let Apple Silicon get in the way of you using Python!'
 date: '2022-02-25T00:00:00.322Z'
 ---
 
