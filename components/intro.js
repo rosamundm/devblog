@@ -1,4 +1,4 @@
-import { CMS_NAME } from '../lib/constants'
+import Link from "next/link";
 
 export default function Intro() {
   return (
@@ -6,8 +6,8 @@ export default function Intro() {
       <h1 className="text-6xl md:text-8xl font-mono tracking-tighter leading-tight md:pr-8">
         Rosamund Mather
       </h1>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        a writer of code and prose
+      <h4 className="text-right md:text-left text-lg mt-5 md:pl-8">
+        <Link href={`/about/`}>a writer of code and prose</Link>
       </h4>
     </section>
   )
