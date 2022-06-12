@@ -1,4 +1,4 @@
-import Prism from "Prismjs";
+import Prism from "prismjs";
 import { useEffect } from "react";
 import Alert from "../components/alert";
 import Footer from "../components/footer";
