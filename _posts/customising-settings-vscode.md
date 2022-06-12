@@ -1,6 +1,6 @@
 ---
 title: 'Customising settings in VSCode'
-excerpt: 'VSCode is a popular IDE, largely because of its user-friendliness and high customisable features. So how can you make it work for you?'
+excerpt: 'VSCode is a popular IDE, largely because it''s user-friendly and highly customisable. Here''s how to make it work for you.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2021-12-17T00:00:00.322Z'
 ogImage:
