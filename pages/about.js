@@ -34,16 +34,10 @@ export default function About() {
               <p>
                   I see myself as stuck somewhere between the literary and tech worlds. Aside from being a dev, I'm currently revising my 
                   first novel manuscript, plus I have a couple of other writing projects going on (but I'm trying to get into the habit of 
-                  finishing things before I start new ones).
+                  finishing things before I start new ones). Otherwise, you'll most likely find me stuck in a good book. I veer strongly 
+                  towards novels and memoirs with queer or feminist themes.
               </p>
                   <br></br>
-              <p>
-                  Otherwise, you'll most likely find me stuck in a good book. 
-                  I veer strongly towards novels and memoirs with queer or feminist themes; check out my reading lists by year, I take it 
-                  pretty seriously.
-              </p>
-                  <br></br>
-
               <h2 className="text-3xl">
                   Some other fun facts:
               </h2>
