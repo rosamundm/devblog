@@ -1,8 +1,8 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Deploying my Wagtail blog to Digital Ocean, pt. 1'
+excerpt: 'Part 1 of my tutorial on deploying your Wagtail blog to Digital Ocean, learning a bit about Gunicorn and Nginx on the way.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2020-01-29T00:00:00.322Z'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---

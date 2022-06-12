@@ -1,6 +1,6 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Deploying my Wagtail blog to Digital Ocean, pt. 2'
+excerpt: 'Part 2 of my tutorial on deploying your Wagtail blog to Digital Ocean, learning a bit about Gunicorn and Nginx on the way.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 ogImage:
