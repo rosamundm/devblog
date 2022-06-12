@@ -71,3 +71,54 @@ return (
 export default RestaurantInstance;
 
 ```
+
+## Let's go through this again:
+
+# **Lines 10-11:**
+We're invoking a new hook called `useParams()`. This is for grabbing the dynamic value passed to the frontend via the API endpoint; in this case, that would be the ID of the restaurant object. We're going to use `restaurantID` as the parameter (see line 22) when making the API call.
+
+# **Lines 15-37:**
+Just like with the `RestaurantList` component, we make the `useEffect()` call to start the async task. If there is no `restaurantID` available, nothing will be returned. As before, we go through the process and set a `restaurantInstance`, if there is one.
+
+# **Lines 39-54:**
+Since we're not dealing with an array of objects here, but a single `restaurantInstance`, there's no need to apply `map()` to each object, as we did with `RestaurantList`. Now we can choose which attributes of the `restaurantInstance` we want to show on the frontend and express this with JSX accordingly.
+
+# **Line 56:**
+Don't forget to export `RestaurantInstance`! Notice how when we're talking about the component itself, it's in Pascal case (first letter of each word is uppercase) whereas when we name functions and variables, it's in camel case (the first letter of the first word is lowercase, the rest of the first letters are uppercase).
+ 
+## Routing
+In the last post, we touched on the React Router DOM package, because we inherited from its `Link` component. But we haven't yet defined routes for our app.
+
+If you look at the code below, you can see that I have assigned routes to a corresponding component; for example, `/about` will lead to the `AboutPage` component. Which makes sense, right? As for our restaurants, we can see that for the `RestaurantList` component we have a route to our list of restaurants, and for the `RestaurantInstance`, there's a detail view that will render data according to the object ID that gets passed in.
+
+```javascript
+// App.js 
+import React, { Component } from "react"; 
+import { BrowserRouter as Router, Routes, Route} from "react-router-dom"; 
+import AboutPage from "./components/About.js"; 
+import RestaurantInstance from "./components/Restaurant.js"; 
+import RestaurantList from "./components/Restaurants.js"; 
+import HomePage from "./components/Home.js"; 
+
+class App extends Component { 
+    render() { 
+        return ( 
+            <div> 
+                <Router> 
+                    <Routes> 
+                        <Route path="/" element={<HomePage/>}/> 
+                        <Route path="/about" element={<AboutPage/>}/> 
+                        <Route path="/restaurants" element={<RestaurantList/>}/> 
+                        <Route path="/restaurants/:id" element={<RestaurantInstance/>}/> 
+                    </Routes> 
+                </Router> 
+            </div> 
+        ) 
+    } 
+}; 
+
+export default App;
+```
+
+## Up next
+I'm currently figuring out how to represent nested data on the frontend. The next post in this series will be about that!
