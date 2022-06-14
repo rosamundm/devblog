@@ -9,7 +9,7 @@ export default function About() {
     <Layout>
       <Container>
       <Header />
-      <article className="mb-32 text-justify">
+      <article className="mb-32">
           <Head>
               <title>
                 About
