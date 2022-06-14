@@ -1,10 +1,7 @@
 ---
 title: 'Getting to grips with Django REST Framework and React, pt. 2'
 excerpt: 'Part 2 of my tutorial on how to glue together your Django and React apps, passing data to a frontend.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2022-05-06T00:00:00.322Z'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 In the [first post](/django-rest-react-pt-1/) in this series, I showed you how to send a Django list view to React. In this one, I am going to talk about routing and presenting a detail view — that is, coupling one REST resource to a specific page.

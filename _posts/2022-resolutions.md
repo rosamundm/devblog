@@ -1,10 +1,7 @@
 ---
 title: '2022 resolutions'
 excerpt: 'What do I hope to have achieved by the end of the year?'
-coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2022-01-14T00:00:00.322Z'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 <p data-block-key="26qxe">I haven&#x27;t set formal resolutions for a few years, it seems; it was always too stressful. Right now, a lot of people are like &quot;my goal is just to survive&quot;, and that&#x27;s <a href="https://twitter.com/sarahclazarus/status/1471297392041463810">completely</a> <a href="https://twitter.com/drdevonprice/status/1476692489138577414">valid</a>. However, I want to set myself three goals with concrete benchmarks (well, these are just the public ones, hehe):</p>

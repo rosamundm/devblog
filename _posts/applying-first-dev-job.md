@@ -1,7 +1,6 @@
 ---
 title: 'Applying to my first dev job'
 excerpt: 'Overcoming the life-long ideas I had internalised about myself and my skills, and just going for what I want anyway.'
-coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-05-15T00:00:00.322Z'
 ---
 

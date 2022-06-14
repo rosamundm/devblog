@@ -1,10 +1,7 @@
 ---
 title: 'Coaching at Django Girls 2019'
 excerpt: 'In which I give my first lightning talk and have my Rubicon moment: realising I want to code as a career.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2019-10-27T00:00:00.322Z'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 In 2018, I participated in Django Girls. In 2019, I coached it. And if it wasn’t for the encouragement of a coworker/friend, I doubt I’d be able to say that.

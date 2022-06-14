@@ -1,10 +1,7 @@
 ---
 title: 'Getting to grips with Django REST Framework and React, pt. 1'
 excerpt: 'Part 1 of my tutorial on how to glue together your Django and React apps, passing data to a frontend.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2022-01-14T00:00:00.322Z'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 Python libraries used (it's also assumed you've already set up a basic Django application with a superuser): [Django](https://www.djangoproject.com/) | [Django REST Framework](https://www.django-rest-framework.org/) | [SimpleJWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/) | [Django CORS Headers](https://github.com/adamchainz/django-cors-headers)

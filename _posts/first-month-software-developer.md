@@ -1,10 +1,7 @@
 ---
 title: 'The first month'
 excerpt: 'Five initial impressions about switching to the software development team in my company.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-09-30T00:00:00.322Z'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 <p data-block-key="luh38">It&#x27;s the last day of September, which means I have been a gainfully employed software developer for one month. What are five things I&#x27;ve learnt so far?</p>

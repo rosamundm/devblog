@@ -1,10 +1,7 @@
 ---
 title: 'Setting up pre-commit hooks'
 excerpt: 'Keep a clean, standardised codebase and save time by setting up pre-commit hooks for your project.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2021-10-05T00:00:00.322Z'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 Although I'd come across pre-commit hooks in my previous job, I never really thought I'd be dealing with them myself. My own side projects are too small, I figured, to really necessitate it, plus I always assumed I'd join a company where someone else had already taken care of that.

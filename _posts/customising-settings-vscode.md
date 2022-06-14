@@ -1,10 +1,7 @@
 ---
 title: 'Customising settings in VSCode'
 excerpt: 'VSCode is a popular IDE, largely because it''s user-friendly and highly customisable. Here''s how to make it work for you.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2021-12-17T00:00:00.322Z'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 I'm cooking up quite a few lengthier drafts at the moment, but today here's a quick post. If you're a VSCode user, did you know you can customise your settings in the `settings.json` file? Here's mine:

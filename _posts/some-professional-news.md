@@ -1,10 +1,7 @@
 ---
 title: 'Some professional news'
 excerpt: 'Spoiler: I got my first ever job as a junior software developer! How did this happen?'
-coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-09-12T00:00:00.322Z'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 ## TL;DR: I accepted a job as a software developer!
