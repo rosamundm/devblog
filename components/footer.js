@@ -10,9 +10,10 @@ export default function Footer() {
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <div className="text-2xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             <Link href={`/about/`}>about</Link> {''}
-            <Link href={`/reading/`}>reading</Link> {''}
-            <Link href={`/resources/`}>resources</Link> {''}
-            <Link href={`/contact/`}>contact</Link>
+            {/* <Link href={`/reading/`}>reading</Link> {''} */}
+            {/* <Link href={`/resources/`}>resources</Link> {''} */}
+            {/* <Link href={`/contact/`}>contact</Link> */}
+            <Link href={`/impressum/`}>impressum</Link>
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
@@ -25,7 +26,6 @@ export default function Footer() {
               className="mx-3 text-sm"
             >
               © Rosamund Mather {(new Date().getFullYear())} {''}
-              <Link href={`/impressum/`}>Impressum</Link>
             </div>
             
           </div>

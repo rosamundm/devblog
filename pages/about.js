@@ -9,11 +9,7 @@ export default function About() {
     <Layout>
       <Container>
       <Header />
-        <div className="text-8xl font-bold text-center tracking-tighter leading-tight md:leading-none mb-12 text-center ">
-          About
-        </div>
-
-      <article className="mb-32 text-justify	">
+      <article className="mb-32 text-justify">
           <Head>
               <title>
                 About
@@ -23,7 +19,7 @@ export default function About() {
           <div className="max-w-2xl mx-auto">
 
               <h2 className="text-3xl">
-                  👩🏼‍💻My name is Rosamund, a translator turned software developer (and still definitely a writer).
+                  👩🏼‍💻My name is Rosamund: software developer, writer, and ex-translator.
               </h2>
                   <br></br>
               <p>
@@ -96,13 +92,13 @@ export default function About() {
               </p>
                   <br></br>
               <p>
-                  We all contain multitudes. I chose to study foreign languages at university, initially because of my desire to access other cultures, but in retrospect,
+                  I chose to study foreign languages at university, initially because of my desire to access other cultures, but in retrospect,
                   it was also because of my love of syntax, structure, and making tiny changes to a bigger picture. I found that various elements, possibly abstract or
                   random at first glance, could slot neatly into place and effect powerful messages.
               </p>
                   <br></br>
               <p>
-                  Now I build software for a living, but in no way does that mean I'm exclusively a developer. I haven't given up on writing, nor do I no longer identify
+                  We all contain multitudes. Now I build software for a living, but in no way does that mean I'm exclusively a developer. I haven't given up on writing, nor do I no longer identify
                   as a writer. In fact, I believe my continuing writing practice keeps me in balance.
               </p>
                   <br></br>

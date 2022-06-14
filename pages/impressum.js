@@ -9,9 +9,7 @@ export default function Impressum() {
     <Layout>
       <Container>
       <Header />
-        <div className="text-8xl font-bold text-center tracking-tighter leading-tight md:leading-none mb-12 text-center ">
-          Impressum
-        </div>
+
 
         <article className="mb-32">
           <Head>
