@@ -4,7 +4,7 @@ excerpt: 'Part 1 of my tutorial on deploying your Wagtail blog to Digital Ocean,
 date: '2020-01-29T00:00:00.322Z'
 ---
 
-My main project for the past couple of months has been building a Wagtail blog (*June 2022 note: the blog is now dead, but I'm going to continue talking about it as if it were still running so that I have to do minimal editing here*). It is finished, and it runs, but deploying it has been a bit of a sticking point. Now that I’m in a place where I could theoretically do so, I don’t want to, mainly because I want to test it properly and learn good habits.
+My main project for the past couple of months has been building a Wagtail blog (*June 2022 note: the blog in its Wagtail form is now dead, but I'm going to continue talking about it as if it were still running so that I have to do minimal editing here*). It is finished, and it runs, but deploying it has been a bit of a sticking point. Now that I’m in a place where I could theoretically do so, I don’t want to, mainly because I want to test it properly and learn good habits.
 
 Still, I’ve learnt a lot through this process so far and wanted to share as I go along. Also, I’d rather have at least some content on my blog than wait until absolutely everything is perfect.
 
@@ -76,4 +76,4 @@ Another recurring error was the static files not loading. I’d had this problem
 
 Here’s some [more info](https://docs.djangoproject.com/en/2.2/howto/static-files/) about Django static files.
 
-Read part 2 [here](https://rosamund.dev/wagtail-digital-ocean-pt-2)!
+Read part 2 [here](https://rosamund.dev/wagtail-digital-ocean-pt-2/)!
