@@ -41,7 +41,7 @@ export default function About() {
               <ul>
                   <li>
                       🗣 When I was about 16, I set a life goal of being fluent in one Romance, one 
-                      Germanic, and one Slavic language. I've got French and German are done, but I'm 
+                      Germanic, and one Slavic language. I've got French and German down, but I'm 
                       still working on Russian.
                   </li>
                   <li>
