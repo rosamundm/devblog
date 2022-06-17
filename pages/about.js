@@ -23,15 +23,20 @@ export default function About() {
               </h2>
                   <br></br>
               <p>
-                  I'm originally from the <a href="https://en.wikipedia.org/wiki/East_Anglia\">East Anglia</a> region of England — grew
+                🌾 I'm originally from the <a href="https://en.wikipedia.org/wiki/East_Anglia\">East Anglia</a> region of England — grew
                   up in Norfolk and Suffolk, specifically — and have been living in Berlin, Germany since 2014.
               </p>
                   <br></br>
               <p>
-                  I see myself as stuck somewhere between the literary and tech worlds. Aside from being a dev, I'm currently revising my 
-                  first novel manuscript, plus I have a couple of other writing projects going on (but I'm trying to get into the habit of 
+                💚 Python, specifically the Django web framework, made me fall in love with programming. These are the tools I use every day at work, 
+                  though I'm lately exploring all the possibilities of JavaScript on the side.
+              </p>
+                  <br></br>
+              <p>
+                  📚 I see myself as stuck somewhere between the literary and tech worlds. Aside from being a dev, I'm currently revising the
+                  manuscript of my first novel, plus I have a couple of other writing projects going on (but I'm trying to get into the habit of 
                   finishing things before I start new ones). Otherwise, you'll most likely find me stuck in a good book. I veer strongly 
-                  towards novels and memoirs with queer or feminist themes. You can check out my annual reading lists <a href="/reading-2022/">here</a>.
+                  towards fiction and memoirs with queer or feminist themes. You can check out my annual reading lists <a href="/reading-2022/">here</a>.
               </p>
                   <br></br>
               <h2 className="text-3xl">
@@ -44,11 +49,14 @@ export default function About() {
                       Germanic, and one Slavic language. I've got French and German down, but I'm 
                       still working on Russian.
                   </li>
+                    <br></br>
                   <li>
                       🐱 I'm a proud co-parent to three cheeky cats.
                   </li>
+                    <br></br>
                   <li>
-                      🌱 I've been vegan for 10 years and wouldn't have it any other way!
+                      🌱 I've been vegan for 10 years and wouldn't have it any other way! Watch this space for a page
+                      on my favourite places to eat in Berlin.
                   </li>
               
               </ul>
