@@ -92,6 +92,9 @@ export default function Reading2022() {
                 <li data-block-key="9d14m">
                   <b>Gargi Bhattacharyya, Adam Elliott-Cooper et al</b> - <i>Empire&#x27;s Endgame: Racism and the British State</i> (5/5)
                 </li>
+                <li>
+                  <b>Kristina Gorcheva-Newberry</b> - <i>The Orchard</i> (3/5)
+                </li>
               </ol>
 
               <br></br>
