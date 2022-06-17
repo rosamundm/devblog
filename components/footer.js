@@ -33,14 +33,14 @@ export default function Footer() {
                     style={{ fontSize: 25 }}
                   />
             </a> {''}
-
+            {/*
             <a href="https://twitter.com/ro_sa_mu_nd">
                   <FontAwesomeIcon
                     icon={faTwitter}
                     style={{ fontSize: 25 }}
                   />
             </a> {''}
-
+            */}
             <a href="https://www.linkedin.com/in/rosamundm/">
                   <FontAwesomeIcon
                     icon={faLinkedin}

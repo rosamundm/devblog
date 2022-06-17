@@ -24,7 +24,7 @@ export default function Impressum() {
             <p>
               Rosamund Mather<br></br>
               10178 Berlin<br></br>
-              <strong>E-Mail:</strong> rosamund@posteo.de
+              <strong>E-Mail:</strong> rosamund at posteo dot de
             </p>
               <br></br>
             <h2 className="text-4xl">
