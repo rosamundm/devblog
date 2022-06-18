@@ -66,19 +66,6 @@ export default function About() {
                   My coding origin story: if you're curious about how I got into it, read on...
               </h2>
                   <br></br>
-              <blockquote>
-                <em>
-                  Code is speech; speech a human utters to silicon, which makes the machine come to life and do our will. 
-                  This makes code oddly literary. [...] While physical machines like car engines or can openers are 
-                  governed by patent law, software is also governed by copyright, making it a weird sister of 
-                  the poem or the novel.
-                </em>
-                  <br></br>
-                <strong>
-                  Clive Thompson, 'Coders: The Making of a New Tribe and the Remaking of the World'
-                </strong>
-              </blockquote>
-                  <br></br>
               <p>
                   Blogging has been part of my life since circa 2005. I made the original iteration of this one (what happened to it?)
                   in 2019, initially to document my journey as a developer, and to practise making a real, live website with a database and
