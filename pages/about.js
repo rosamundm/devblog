@@ -81,7 +81,7 @@ export default function About() {
                   <br></br>
               <p>
                   Actually, I never doubted that my experience as a natural-language professional was a strength, but some overlooked or dismissed this. This inspired
-                  me to make my blog not just a <a href="https://www.swyx.io/learn-in-public/">learning in public</a> resource, actively have a mission behind it: 
+                  me to make my blog not just a <a href="https://www.swyx.io/learn-in-public/">learning in public</a> resource, but to actively have a mission behind it: 
                   to show that two of my passions, literature and programming, might not be so different after all. I firmly believe that we don't need to whittle ourselves 
                   down into one category, no matter how disparate those categories might appear at first glance.
               </p>
