@@ -95,6 +95,12 @@ export default function Reading2022() {
                 <li>
                   <b>Kristina Gorcheva-Newberry</b> - <i>The Orchard</i> (3/5)
                 </li>
+                <li>
+                  <b>Rachel Lynn Solomon</b> - <a href="https://www.goodreads.com/review/show/3624065324"><i>The Ex Talk</i></a> (4/5)
+                </li>
+                <li>
+                  <b>Jean Hannah Edelstein</b> - <i>This Really Isn't About You</i> (3/5)
+                </li>
               </ol>
 
               <br></br>
