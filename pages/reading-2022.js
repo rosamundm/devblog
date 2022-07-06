@@ -134,9 +134,9 @@ export default function Reading2022() {
               <h2 className="text-3xl">
                 <a href="/reading-2021">2021</a> | 
                 <a href="/reading-2020">2020</a> |
-                2019 |
-                2018 |
-                2017 |
+                <a href="/reading-2019">2019</a> |
+                <a href="/reading-2018">2018</a> |
+                <a href="/reading-2017">2017</a> |
                 2016 |
                 2015 |
                 2014 |
