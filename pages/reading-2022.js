@@ -127,6 +127,9 @@ export default function Reading2022() {
                 <li>
                   <b>Jean Hannah Edelstein</b> - <i>This Really Isn't About You</i> (3/5)
                 </li>
+                <li>
+                  <b>Emily & Amelia Nagoski</b> - <i>Burnout: The Secret to Solving Your Stress Cycle</i> (3/5)
+                </li>
               </ol>
 
               <br></br>
