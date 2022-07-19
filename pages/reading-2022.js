@@ -131,6 +131,10 @@ export default function Reading2022() {
                 <li>
                   <b>Emily & Amelia Nagoski</b> - <i>Burnout: The Secret to Solving Your Stress Cycle</i> (3/5)
                 </li>
+                <br></br>
+                <li>
+                  <b>Susan Rigetti</b> - <i>Cover Story</i> (4/5)
+                </li>
               </ol>
 
               <br></br>
