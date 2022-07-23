@@ -5,3 +5,4 @@
 * tagging system
 ~~* fix donation button~~
 * fix ordered/unordered list not showing up
+* make annual reading pages dynamic
