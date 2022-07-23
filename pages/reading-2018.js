@@ -147,6 +147,7 @@ export default function Reading2018() {
                 <li>
                     <b>Chloe Caldwell</b> - <a href="https://www.goodreads.com/review/show/1118311353"><i>Women</i></a> (4/5)
                 </li>
+                <br></br>
                 <li>
                     <b>Rosie Walsh</b> - <a href="https://www.goodreads.com/review/show/2479867197"><i>The Man Who Didn&#x27;t Call</i></a> (2/5)
                 </li>

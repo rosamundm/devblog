@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Head from 'next/head'
 import Container from '../components/container';
 import Header from '../components/header';
 import Layout from '../components/layout';
@@ -149,8 +150,8 @@ export default function Reading2022() {
                 <a href="/reading-2019">2019</a> |
                 <a href="/reading-2018">2018</a> |
                 <a href="/reading-2017">2017</a> |
-                2016 |
-                2015 |
+                <a href="/reading-2016">2016</a> |
+                <a href="/reading-2015">2015</a> |
                 2014 |
                 2013 |
                 2012 |
