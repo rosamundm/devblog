@@ -23,7 +23,7 @@ export default function Reading2019() {
               
               <br></br>
 
-              <ol>
+              <ol class="list-decimal">
                 <li data-block-key="hwclu">
                     <b>Roland Schimmelpfennig</b> - <i>An einem klaren, eiskalten Januarmorgen zu Beginn des 21. Jahrhunderts</i> (3/5)
                 </li>

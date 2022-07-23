@@ -23,7 +23,7 @@ export default function Reading2022() {
               </h2>
                   <br></br>
 
-              <ol>
+              <ol class="list-decimal">
                 <li data-block-key="fp1iu">
                   <b>Devon Price</b> - <i>Laziness Does Not Exist</i> (5/5)
                 </li>
@@ -134,6 +134,10 @@ export default function Reading2022() {
                 <br></br>
                 <li>
                   <b>Susan Rigetti</b> - <i>Cover Story</i> (4/5)
+                </li>
+                <br></br>
+                <li>
+                  <b>Frédérick Lavoie</b> - <i>Ukraine à fragmentation</i> (2/5)
                 </li>
               </ol>
 

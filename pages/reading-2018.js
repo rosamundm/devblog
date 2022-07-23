@@ -23,7 +23,7 @@ export default function Reading2018() {
               
               <br></br>
 
-              <ol>
+              <ol class="list-decimal">
                 <li>
                     <b>Paul Scraton</b> - <a href="https://www.goodreads.com/review/show/2006357540"><i>Ghosts on the Shore: Travels Along Germany&#x27;s Baltic Coast</i></a> (4/5)
                 </li>

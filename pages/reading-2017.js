@@ -23,7 +23,7 @@ export default function Reading2017() {
               
               <br></br>
 
-              <ol>
+              <ol class="list-decimal">
                 <li data-block-key="51hmd">
                     <b>Zoe Whittall</b> - <a href="https://www.goodreads.com/review/show/531793464?book_show_action=false&amp;from_review_page=1"><i>Bottle Rocket Hearts</i></a> (re-read) (4/5)
                 </li>

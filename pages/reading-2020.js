@@ -23,7 +23,7 @@ export default function Reading2020() {
               
               <br></br>
 
-              <ol>
+              <ol class="list-decimal">
                 <li data-block-key="luguh">
                     <b>Ottessa Moshfegh</b> - <a href="https://www.goodreads.com/review/show/2398151652"><i>My Year of Rest and Relaxation</i></a> (3/5)
                 </li>

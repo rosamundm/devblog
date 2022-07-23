@@ -23,7 +23,7 @@ export default function Reading2021() {
               
               <br></br>
 
- <ol>
+ <ol class="list-decimal">
     <li data-block-key="5nmmp">
         <b>Mieko Kawakami (tr. Sam Bett, David Boyd)</b> - <a href="https://www.goodreads.com/review/show/3207549983"><i>Breasts and Eggs</i></a> (2/5)
     </li>
