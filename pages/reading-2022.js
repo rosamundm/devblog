@@ -137,7 +137,7 @@ export default function Reading2022() {
                 </li>
                 <br></br>
                 <li>
-                  <b>Frédérick Lavoie</b> - <i>Ukraine à fragmentation</i> (2/5)
+                  <b>Frédérick Lavoie</b> - <i><a href="https://www.goodreads.com/review/show/4865679158">Ukraine à fragmentation</a></i> (2/5)
                 </li>
               </ol>
 
