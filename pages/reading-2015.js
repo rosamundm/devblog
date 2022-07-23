@@ -189,15 +189,15 @@ export default function Reading2015() {
                 </li>
                 <br></br>
                 <li>
-                    <b>Rut Hillarp (tr. Saskia Vogel)</b> - <i>The Black Curve</i> (no rating!)
+                    <b>Rut Hillarp (tr. Saskia Vogel)</b> - <i><a href="https://www.goodreads.com/review/show/1473167945">The Black Curve</a></i> (no rating!)
                 </li>
                 <br></br>
                 <li>
-                    <b>Rachel Hills</b> - <i>The Sex Myth: The Gap Between Our Fantasies and Reality</i> (4/5)
+                    <b>Rachel Hills</b> - <i><a href="https://www.goodreads.com/review/show/1372291170">The Sex Myth: The Gap Between Our Fantasies and Reality</a></i> (4/5)
                 </li>
                 <br></br>
                 <li>
-                    <b>John Darnielle</b> - <i>Wolf in White Van</i> (5/5)
+                    <b>John Darnielle</b> - <i><a href="https://www.goodreads.com/review/show/873135162">Wolf in White Van</a></i> (5/5)
                 </li>
                 <br></br>
                 <li>
@@ -205,11 +205,11 @@ export default function Reading2015() {
                 </li>
                 <br></br>
                 <li>
-                    <b>Carrie Brownstein</b> - <i>Hunger Makes Me a Modern Girl</i> (3/5)
+                    <b>Carrie Brownstein</b> - <i><a href="https://www.goodreads.com/review/show/1427479735">Hunger Makes Me a Modern Girl</a></i> (3/5)
                 </li>
                 <br></br>
                 <li>
-                    <b>Dean Garlick</b> - <i>Chloes</i> (4/5)
+                    <b>Dean Garlick</b> - <i><a href="https://www.goodreads.com/review/show/1460818099">Chloes</a></i> (4/5)
                 </li>
               </ol>
           </div>
